@@ -38,3 +38,27 @@ Requirements
 - Forge 47.x
 - JEI 15.20.x
 - Lightman's Currency 2.3.x
+
+Authors and license
+-------------------
+Original author: qinglin_zcr
+Fork maintainer and contributor: KazeShukufuku
+Fork: https://github.com/KazeShukufuku/JustEnoughLightmansTrades
+Original: https://github.com/qinglin-zcr/JustEnoughLightmansTrades
+
+This modified work is licensed under GPL-3.0-or-later. See LICENSE.txt for
+the full license, NOTICE.txt for the dated modification notice and warranty
+disclaimer, and CHANGELOG.md for release changes.
+
+Building from source
+--------------------
+Use JDK 17 and the included Gradle 8.8 wrapper:
+  Windows: gradlew.bat build
+  Linux/macOS: ./gradlew build
+The build resolves Forge, Parchment mappings, JEI and Lightman's Currency
+from the repositories configured in build.gradle and settings.gradle.
+The distributable mod JAR is written to build/libs/.
+
+GitHub Releases include the mod JAR, a source ZIP containing the matching
+source and build scripts, license and modification notices, and SHA-256
+checksums. Release tags and assets are published in the fork linked above.

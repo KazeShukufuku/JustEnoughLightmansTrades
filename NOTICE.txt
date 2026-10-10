@@ -1,0 +1,21 @@
+Just Enough Lightmans Trades
+
+Original project and author: qinglin_zcr
+https://github.com/qinglin-zcr/JustEnoughLightmansTrades
+
+This modified version is maintained by KazeShukufuku.
+https://github.com/KazeShukufuku/JustEnoughLightmansTrades
+
+Modification notice (2026-10-10): This distribution includes the fork's
+trade display and dynamic price support changes, adds KazeShukufuku to the
+mod author metadata alongside qinglin_zcr, and includes license and release
+documentation in the mod JAR. See CHANGELOG.md for details.
+
+This entire modified work is distributed under the GNU General Public
+License, version 3 or (at your option) any later version (GPL-3.0-or-later).
+The original license text and existing notices are retained. See LICENSE.txt.
+This program is distributed WITHOUT ANY WARRANTY, including the implied
+warranties of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+The corresponding source, including build scripts, is provided in the
+source ZIP attached to the GitHub Release and in the matching Git tag.
